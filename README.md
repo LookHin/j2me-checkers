@@ -6,4 +6,13 @@
 
 เอาขึ้น Git เพื่อเก็บเอาไว้ดูเล่น
 
+ก่อนรันก็ต้องติดตั้ง J2SE และ J2ME ก่อนนะครับ โดยผมเคยเขียนตัวอย่างการติดตั้งไว้นานแล้ว สามารถเข้าไปดูได้จาก link ต่อไปนี้ และตัวโปรแกรมติดตั้งผมได้ download มาเก็บไว้แล้ว เผื่อหากันไม่เจอ เพราะเป็นโปรแกรมเก่ามากๆ
+https://onlyme.dev/unzeen.com/article/122/
+
+J2SE Development Kit
+https://onlyme.dev/unzeen.com/download/Old-Programming-IDE/j2me-dev-kit/jdk-1_5_0_17-windows-i586-p.exe
+
+J2ME Wireless Toolkit
+https://onlyme.dev/unzeen.com/download/Old-Programming-IDE/j2me-dev-kit/j2me_wireless_toolkit-2_2-windows.exe
+
 ดู video ตัวอย่างได้จาก blog ของผมเอง https://onlyme.dev/j2me-checkers/
