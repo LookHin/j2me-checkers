@@ -18,3 +18,5 @@ https://onlyme.dev/unzeen.com/download/Old-Programming-IDE/j2me-dev-kit/j2me_wir
 
 ### ดู video ตัวอย่างได้จาก blog ของผมเอง
 https://onlyme.dev/j2me-checkers/
+
+![Image](https://onlyme.dev/content/images/size/w2000/2024/07/Screenshot-2024-07-19-215716-1.png)
